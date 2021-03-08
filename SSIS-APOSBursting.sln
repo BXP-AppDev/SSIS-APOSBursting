@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1340
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SSIS-APOSBursting", "SSIS-APOSBursting\SSIS-APOSBursting.dtproj", "{C48F4AE0-DEEF-449B-96DD-FC86A1B5D359}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C48F4AE0-DEEF-449B-96DD-FC86A1B5D359}.Development|Default.ActiveCfg = Development
+		{C48F4AE0-DEEF-449B-96DD-FC86A1B5D359}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {190F1A7A-5972-47BA-B1B7-B6583184B72E}
+	EndGlobalSection
+EndGlobal

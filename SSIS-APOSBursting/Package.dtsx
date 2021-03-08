@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="3/8/2021 4:07:50 PM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="BPM05-KGENS1"
+  DTS:CreatorName="BXP\kgens"
+  DTS:DTSID="{1733AA9D-9E94-425D-AF1F-4DF967A0122B}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="15.0.2000.68"
+  DTS:LocaleID="1033"
+  DTS:ObjectName="Package"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{A642324F-137A-4E2C-9EE6-C2134786D3B3}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>
